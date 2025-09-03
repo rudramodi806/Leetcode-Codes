@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rudramodi806/Leetcode-Codes/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/rudramodi806/Leetcode-Codes/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rudramodi806/Leetcode-Codes/tree/master/0129-sum-root-to-leaf-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rudramodi806/Leetcode-Codes/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
